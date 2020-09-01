@@ -11,7 +11,7 @@ norm_z <- function(x) {
 
 # ------------------ Main -----------------------
 # ----- load data
-load("cum_confirm.rda")
+load("Data/cum_confirm.rda")
 
 # ----- data preprocessing
 ter.data <- cum_confirm[-which(cum_confirm[, 46] == 0), ]
