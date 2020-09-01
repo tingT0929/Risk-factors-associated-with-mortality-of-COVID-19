@@ -13,4 +13,15 @@ The data incorporte 3 .rda files.
 - The time-series cluster results for 2692 infected counties in the United States ("cluster_data.Rda")
 - The adverse health factors, cluster results, and the deaths on April 15 were complied into a single Rda file ("FIPScumdead.Rda") 
 
+# Permissions
+The data were orignially collected by the authors
+
+# Code
+# Abstract
+The codes incorported all the scripts to reproduce the analysis in the paper. 
+
+# Reporducibility
+- The different classes of counties were obtained by runing "clustering.R"
+- The singificant contributing factors related to increaning the mortiliay of COVID-19 were identified in different classes of counties by runing "Varlm.R"
+
 
