@@ -22,8 +22,8 @@ The data were orignially collected by the authors
 The codes incorported all the scripts to reproduce the analysis in the paper. 
 
 ### 2) Reporducibility
-- The different classes of counties were obtained by runing "clustering.R"
-- The singificant contributing factors related to increaning the mortiliay of COVID-19 were identified in different classes of counties by runing "Varlm.R"
+- The different classes of counties were obtained by runing "`Clustering.R`"
+- The singificant contributing factors related to increaning the mortiliay of COVID-19 were identified in different classes of counties by runing "`Varlm.R`"
 
 
 ----
