@@ -29,4 +29,4 @@ The codes incorported all the scripts to reproduce the analysis in the paper.
 ----
 ## 3. Paper
 
-- https://www.medrxiv.org/content/10.1101/2020.05.18.20105544v4
+-DOI: https://doi.org/10.1186/s40249-020-00786-0
